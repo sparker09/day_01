@@ -6,7 +6,7 @@ DIRCOUNT=0
 
 if [ "$#" -lt "1" ]
 then
-    echo "Usage: ./test2.sh <directory>"
+    echo "Usage: ./count_files.sh <directory>"
     exit 0
 fi
 
